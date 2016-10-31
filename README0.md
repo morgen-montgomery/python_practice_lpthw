@@ -1,2 +1,0 @@
-# LPTHW
-Notes and Codes
